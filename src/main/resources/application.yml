@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Movies Ecosystem Backend
+
+tmdb-api:
+  api-key: "2cb4aeb07f54765ad03d2eb2c203d58f"
+  read-access-token: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyY2I0YWViMDdmNTQ3NjVhZDAzZDJlYjJjMjAzZDU4ZiIsIm5iZiI6MTc0MTk5NDAyMy4xOTUwMDAyLCJzdWIiOiI2N2Q0YjgyNzMxNjc4Y2MzZjgwMTBiMGUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.q6vJyzj6g845mnKASQWL48pqhrl7o8W3RmVws5fXZtg"
